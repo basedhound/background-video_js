@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://bg-video-1.netlify.app" target="_blank">
-      <img src="design/preview.webp" alt="Project Banner">
+      <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Background Video #1</h3>
 </div>
